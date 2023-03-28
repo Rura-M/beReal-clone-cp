@@ -4,7 +4,7 @@ Submitted by: **Ruramaimunashe Mutefura**
 
 **BeReal** is an app that allows user login and logout, as well as user registration. The app allows users to share what they are doing with their community
 
-Time spent: **10** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
