@@ -32,10 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Rura-M/beReal-clone-cp/blob/main/lab_6/Untitled%20(1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Iphone Simulator + IMG2GO
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -46,7 +46,7 @@ Some of the code on the app was showing as errors. I met with a TA but we could 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ruramaimunashe Mutefura]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
