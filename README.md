@@ -42,8 +42,7 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Some of the code on the app was showing as errors. I met with a TA but we could not resolve it as it was correct according the project code base. Thus, I had to rebuild the whole project and still use the code from the code base
 
 ## License
 
