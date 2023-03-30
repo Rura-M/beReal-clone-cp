@@ -11,7 +11,7 @@ Time spent: **2** hours spent in total
 The following **required** functionality is completed:
 
 - [ ] User can launch camera to take photo instead of photo library
-- [ ] User session persists when application is closed and relaunched
+- [x] User session persists when application is closed and relaunched
 - [x] Users are able to log out and return to sign in page
 - [x] Users are NOT able to see other photos until they upload their own	
  
@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Rura-M/beReal-clone-cp/blob/main/lab_51/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-03-29%20at%2022.50.33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Mac Simulator
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,7 +44,7 @@ I did not have access to an Iphone for this project
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ruramaimunashe Mutefura]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
